@@ -1,4 +1,5 @@
-![logo](1.png)
+<img width="3406" height="1120" alt="GITHUB IMAGE " src="https://github.com/user-attachments/assets/092d6296-cd46-4671-b9c1-15714ddb90e7" />
+
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishanurag77&label=Profile%20views&color=0e75b6&style=flat" alt="ashishanurag77" /> </p>
